@@ -1,6 +1,6 @@
 # todo-later-server
 
-Todo-Later Server is an Express application that serves as the back-end for Todo-Later, the todo app. This server-side application provides API routes that are consumed by the Todo-Later Client app. It is designed to handle CRUD (Create, Read, Update, Delete) operations on todo items. The server is built using Express, and the API routes are protected to ensure authenticated access.
+Todo-Later Server is an Express application that serves as the back-end for Todo-Later, the todo app. This server-side application provides API routes that are consumed by the [Todo-Later Client](https://github.com/Kylewuzhere/todo-later-client) app. It is designed to handle CRUD (Create, Read, Update, Delete) operations on todo items. The server is built using Express, and the API routes are protected to ensure authenticated access.
 
 ## Technologies used
 
